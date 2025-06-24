@@ -6,6 +6,7 @@ dist/
 build/
 sync/
 *.userdb/
+*.userdb
 installation.yaml
 user.yaml
 *.custom.yaml
